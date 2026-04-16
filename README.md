@@ -1,8 +1,8 @@
-Hi, I’m Bhasker
-I’m interested in fullstack development.
-I’m currently learning java and python.
-How to reach me: bhaskerball52@gmail.com
+Hey, I'm Bhasker
+I enjoy astrophysics research and web dev.
+How to reach me: bhaskerball52@gmail.com 
 Pronouns: he/him
+Website: [bhaskervasudevan.com](url)
 
 
 <!---
