@@ -1,4 +1,4 @@
-Hey, I'm Bhasker
+Hey, I'm Bhasker and
 I enjoy astrophysics research and web dev.
 How to reach me: bhaskerball52@gmail.com 
 Pronouns: he/him
